@@ -1,2 +1,3 @@
-﻿  练习1.cpp
-  exercise.vcxproj -> C:\Users\hjinh\source\repos\exercise\x64\Debug\exercise.exe
+﻿  练习3.cpp
+C:\Users\hjinh\学习\C\practice\primary-study\exercise\exercise\练习3.cpp(64): warning C4715: “binary_search”: 不是所有的控件路径都返回值
+  exercise.vcxproj -> C:\Users\hjinh\学习\C\practice\primary-study\exercise\x64\Debug\exercise.exe
